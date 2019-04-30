@@ -1,0 +1,5 @@
+(executable
+  (name opam_install_tcn_bug)
+  (public_name opam_install_tcn_bug)
+  (package opam_install_tcn_bug)
+  (libraries tablecloth-native))

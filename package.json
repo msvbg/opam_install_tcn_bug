@@ -1,0 +1,9 @@
+{
+  "name": "opam_install_tcn_bug",
+  "version": "1.0.0",
+  "esy": { "build": "dune build" },
+  "dependencies": {
+    "@opam/dune": "1.9.1",
+    "@opam/tablecloth-native": "0.0.6"
+  }
+}
